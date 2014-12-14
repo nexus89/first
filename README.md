@@ -10,5 +10,5 @@ ide csinálok egy kis leirást - hello vilag
 
 hello world!!!
 
-Érdekes Gitben szerkeszteni. Az mellett, hogy érdes, még a munkám is megfogja könnyiteni.
+Érdekes Gitben szerkeszteni. Az mellett, hogy érdekes, még a munkám is megfogja könnyiteni.
 Ezek mellett, még nagyobb biztonságban lesznek a fájlaim!
